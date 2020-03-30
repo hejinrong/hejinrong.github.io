@@ -3,8 +3,11 @@ layout: archive
 title: "科研项目"
 permalink: /projects/
 author_profile: true
+redirect_from:
+  - /projects
 ---
 
+{% include base_path %}
 
 科研项目
 ======
