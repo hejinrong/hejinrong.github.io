@@ -4,7 +4,7 @@ title: "其他"
 permalink: /others/
 author_profile: true
 redirect_from:
-  - /others
+  - /markdown
 ---
 
 {% include base_path %}
