@@ -1,11 +1,13 @@
 ---
+layout: archive
+title: "其他"
 permalink: /others/
-title: "Others"
 author_profile: true
-redirect_from: 
-  - /others/
-  - /others.html
+redirect_from:
+  - /others
 ---
+
+{% include base_path %}
 
 ## Locations of key files/directories
 
