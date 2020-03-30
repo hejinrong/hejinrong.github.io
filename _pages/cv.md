@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2003.09 - 2007.06: 武汉理工大学, 信息与计算科学, 学士
+* 2007.09 - 2010.06: 武汉理工大学, 计算数学, 硕士
+* 2011.09 - 2014.12: 武汉大学, 计算机软件与理论, 博士
 
 Work experience
 ======
