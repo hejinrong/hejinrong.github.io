@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-1. Jinrong He, Yingzhou Bi, Bin Liu and Zhigao Zeng. Graph-Dual Laplacian Principal Component Analysis. Journal of Ambient Intelligence and Humanized Computing, 2019, 10(8): 3249–3262. (COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE, 中科院4区, IF=1.91)
+1. Jinrong He, Yingzhou Bi, Bin Liu and Zhigao Zeng. Graph-Dual Laplacian Principal Component Analysis. Journal of Ambient Intelligence and Humanized Computing, 2018, 77(9): 11277–11305. (COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE, 中科院4区, IF=1.91)
 2. Jinrong He, Naixue Xiong. An effective information detection method for social big data. Multimedia Tools and Applications, 2018, 77(9): 11277-11305. (COMPUTER SCIENCE, THEORY & METHODS, 中科院3区, IF=1.54)
 3. Jinrong He, Di Wu, Naixue Xiong, Chuansheng Wu. Orthogonal margin discriminant projection for dimensionality reduction[J]. The Journal of Supercomputing, 2016, 72(6):2095-2110. (COMPUTER SCIENCE, THEORY & METHODS, 中科院4区, IF=1.53)
 4. Jinrong He, Yingzhou Bi, Lixin Ding, Zhaokui Li, Shenwen Wang. Unsupervised feature selection based on decision graph[J]. Neural Computing & Applications, 2017, 28(10): 3047-3059. (工程技术 中科院2区, IF=4.21)
